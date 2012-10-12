@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/theosem/workspace/ccnSearchProxy_v3/ccnSearchProxy.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ccnSearchProxy_v3/description.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=ccnSearchProxy_v3/&lt;gr.iti.ccn.ccnsearchproxy{CCNSearchProxy.java[CCNSearchProxy" manifestLocation="/ccnSearchProxy_v3/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/ccnSearchProxy_v3/.project"/>
+        <file path="/ccnSearchProxy_v3/.classpath"/>
+        <javaElement handleIdentifier="=ccnSearchProxy_v3/&lt;gr.iti.ccn.ccnsearchproxy"/>
+        <file path="/ccnSearchProxy_v3/manifest"/>
+    </selectedElements>
+</jardesc>

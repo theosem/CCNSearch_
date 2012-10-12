@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jun 03 15:45:08 EEST 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=searchCCN_fat.jar
+manifest.mergeall=true
+manifest.mainclass=gr.iti.ccn.SearchCCN
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
